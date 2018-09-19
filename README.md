@@ -6,7 +6,23 @@ Sumber: [https://sscn.bkn.go.id/lowongan](https://sscn.bkn.go.id/lowongan)
 
 ![Image of Tata Cara Registrasi](https://raw.githubusercontent.com/dedenbangkit/lowongan-cpns/master/images/tata-cara.jpg)
 
-## Tata Cara
+---
+
 - Pelamar harus membaca dan memahami tata cara registrasi SSCN 2018 yang dapat dilihat di gambar diatas
 - Pastikan NIK dan KK Pelamar sesuai dengan data terkini yang ada pada Dinas Kendudukan dan Catatan Sipil. Isi form dengan data yang benar.
 - Pelamar harus mengisikan data dan dokumen yang telah dipersyaratkan. Pastikan data dan dokumen yang diunggah sudah sesuai dengan ketentuan.
+
+---
+
+## Unduh Daftar Lowongan CPNS
+
+** Preinstall
+```
+$ pip install requirements.txt
+```
+** Jalankan aplikasi
+```
+$ git clone https://github.com/dedenbangkit/lowongan-cpns
+$ python app.py
+```
+
