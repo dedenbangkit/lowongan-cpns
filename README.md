@@ -25,4 +25,14 @@ __Jalankan aplikasi__
 $ git clone https://github.com/dedenbangkit/lowongan-cpns
 $ python app.py
 ```
+__Pencarian Spesifik__
 
+```
+## Contoh pencarian dengan kata kunci "SOSIOLOGI"
+
+def Sosiologi(data):
+    if "SOSIOLOGI" in data:
+        return "TRUE"
+    else:
+        return np.NaN
+```
