@@ -16,11 +16,11 @@ Sumber: [https://sscn.bkn.go.id/lowongan](https://sscn.bkn.go.id/lowongan)
 
 ## Unduh Daftar Lowongan CPNS
 
-** Preinstall
+__Preinstall__
 ```
 $ pip install requirements.txt
 ```
-** Jalankan aplikasi
+__Jalankan aplikasi__
 ```
 $ git clone https://github.com/dedenbangkit/lowongan-cpns
 $ python app.py
