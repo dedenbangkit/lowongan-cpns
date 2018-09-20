@@ -18,11 +18,12 @@ Sumber: [https://sscn.bkn.go.id/lowongan](https://sscn.bkn.go.id/lowongan)
 
 __Preinstall__
 ```
+$ git clone https://github.com/dedenbangkit/lowongan-cpns
+$ cd lowongan-cpns
 $ pip install requirements.txt
 ```
 __Jalankan aplikasi__
 ```
-$ git clone https://github.com/dedenbangkit/lowongan-cpns
 $ python app.py
 ```
 __Pencarian Spesifik__
